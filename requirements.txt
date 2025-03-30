@@ -1,0 +1,10 @@
+chromadb
+crewai
+crewai_tools
+gTTS
+langchain
+omegaconf
+pandas
+Pillow
+SpeechRecognition
+streamlit
