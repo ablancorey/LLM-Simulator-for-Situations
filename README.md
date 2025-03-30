@@ -12,9 +12,11 @@ Master's thesis project of students from the Master's in Big Data, Data Science 
 
 ### AI-Powered Chatbot for Pharmaceutical Negotiation Scenarios
 
-This project develops an AI-driven chatbot specialized in pharmaceutical negotiation scenarios. It features a modular and integrated architecture that combines advanced Natural Language Processing (NLP) techniques with effective management of user-provided information. 
+This project focuses on developing an AI-driven chatbot specialized in pharmaceutical negotiation scenarios. It integrates advanced Natural Language Processing (NLP) techniques with a modular and structured architecture to effectively manage user-provided information.
 
-The chatbot is designed to provide personalized responses, adapting to the context of the negotiation and adjusting to the different user profiles.
+Built upon the COM-B model and prompt engineering techniques, the chatbot embodies distinct identities, motivations, and negotiation strategies, making interactions more dynamic and realistic. Its capabilities are further enhanced by incorporating contextual data, enabling more informed and adaptive decision-making.
+
+Additionally, the system includes AI-assisted agent customization, Retrieval-Augmented Generation (RAG), voice command capabilities, dual-agent interaction mode, and feedback analysis. These features are designed to optimize user experience and enhance the learning process, ensuring a more immersive and effective negotiation simulation.
 
 ## Instructions to Run the Code
 1. We recommend creating a specific virtual environment using Anaconda Prompt. To do so, run:
